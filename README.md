@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/diego-xavier-6a6990205)
 
 ### Technologies
-- HTML5, CSS3, BootStrap 4, Java Script, ES6 (JavaScript Moderno)
+- HTML5, CSS3, BootStrap 4, Java Script, ES6
 - PHP 7, Orientação a Objetos, MySQL, PHP com PDO, JAVA, Ajax, JQuery
 - MVC, APIs, IONIC, WordPress
