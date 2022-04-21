@@ -9,7 +9,7 @@
 
 📚 I’m currently learning everything.
 
--Lover of Technology and Coding ❤️
+❤️ I’m a lover of Technology and Coding
 
 
 ## Contact me
