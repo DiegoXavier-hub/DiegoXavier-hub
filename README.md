@@ -35,13 +35,6 @@
 <br/>
 <br/>
 
-<div align="start">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DiegoXavier-hub&theme=vue"/>
-</div>
-
-<br/>
-<br/>
-
 #### -Thanks for visiting.
 
 #### -Enjoy it!!  \o/
