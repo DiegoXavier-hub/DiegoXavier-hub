@@ -3,13 +3,13 @@
 
  
 
-💻 I’m Front-End Developer!
+💻 I’m Fullstack Developer!
 
 🏡 I’m from Brazil.
 
 📚 I’m currently learning everything.
 
-❤️ I’m a lover of Technology and Coding
+❤️ I’m a lover of Technology, Coding, and, of course, Coffee!
 
 
 ## Contact me
@@ -26,10 +26,13 @@
 ## Some Technologies
 
 <div style="display: inline_block"><br>
-  <img   alt="diego-Sass" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  <img   alt="diego-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img   alt="diego-Sass" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
-  <img   alt="diego-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img   alt="diego-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+  <img   alt="diego-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg">
+  <img   alt="diego-Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg">
+  <img   alt="diego-Axios" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain.svg">
+  <img   alt="diego-NodeJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg">
+  <img   alt="diego-Firebase" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/firebase/firebase-original.svg">
+  <img   alt="diego-NextJs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg">
 </div>
 
 <br/>
