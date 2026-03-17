@@ -55,16 +55,22 @@ Data Science student from Brazil focused on turning data into analysis, models, 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DiegoXavier-hub&show_icons=true&theme=algolia&hide_border=true&rank_icon=github&include_all_commits=true" alt="Diego GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoXavier-hub&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top languages" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoXavier-hub&bg_color=0d1117&color=8bd3ff&line=00b4d8&point=ffffff&area=true&hide_border=true&title_color=00b4d8&custom_title=Contribution%20Graph" alt="Contribution graph" />
 </div>
 
-<div align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=DiegoXavier-hub&theme=algolia&hide_border=true" alt="GitHub streak" />
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoXavier-hub&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top languages" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://streak-stats.demolab.com?user=DiegoXavier-hub&theme=algolia&hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
 
 ## What I Like Building
 
