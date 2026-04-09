@@ -99,9 +99,10 @@ Data Science student from Brazil focused on turning data into analysis, models, 
 
 ## GitHub Overview
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoXavier-hub&bg_color=0d1117&color=8bd3ff&line=00b4d8&point=ffffff&area=true&hide_border=true&title_color=00b4d8&custom_title=Contribution%20Graph" alt="Contribution graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoXavier-hub&bg_color=0d1117&color=8bd3ff&line=00b4d8&point=ffffff&area=true&hide_border=true&title_color=00b4d8&custom_title=Contribution%20Graph" alt="Contribution graph" />
+</p>
+
 
 <table>
   <tr>
