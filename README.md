@@ -89,7 +89,8 @@ Data science student from Brazil building analytical systems, machine learning w
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiegoXavier-hub&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=8bd3ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub streak" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DiegoXavier-hub&layout=compact&bg_color=0d1117&title_color=8bd3ff&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=DiegoXavier-hub&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=8bd3ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
